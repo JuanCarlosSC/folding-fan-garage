@@ -1,8 +1,8 @@
-# Caterpillar Garage
+# Folding Fan Garage
 
 A fully parametric CAD model of a folding, fan-style glass garage enclosure, built entirely in Python with [CadQuery](https://github.com/CadQuery/cadquery).
 
-The structure is a curved glazed frame supported by a "fan" of pivoting triangular braces (reminiscent of a caterpillar's articulated segments — hence the name) that can fold open or closed, plus a hinged door, a sliding door, and full glazing on the roof, walls, and moving triangles.
+The structure is a curved glazed frame supported by a "fan" of pivoting triangular braces that can fold open or closed, plus a hinged door, a sliding door, and full glazing on the roof, walls, and moving triangles.
 
 ![preview](docs/preview.png)
 
